@@ -1,7 +1,7 @@
 <script>
 
     function onButtonClick() {
-        alert('You cklicked me!');
+        alert('You clicked me!');
 
     }
 
@@ -10,7 +10,7 @@
         if (checkbox.checked) {
             alert('Checkbox is checked!');
         } else {
-            alert('Why did you not you check the checkbox?');
+            alert('Why did you you not check the checkbox?');
         }
     }
 
